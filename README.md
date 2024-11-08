@@ -14,13 +14,17 @@
 - Incluir documentación de API (puede ser con Swagger o similar).
 - Añadir control de autenticación y autorización básica (ej. API key o JWT) para proteger ciertas rutas.
 
-## Installation
+## Documentación
+
+- /open-api
+
+## Instalación
 
 ```bash
 $ npm install
 ```
 
-## Running the app
+## Ejecución
 
 ```bash
 # development

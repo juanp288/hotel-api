@@ -25,6 +25,6 @@ async function bootstrap() {
   });
 
   await app.listen(3000);
-  logger.log(`Server is running!, View docs: ${await app.getUrl()}/docs/`);
+  logger.log(`Server is running!, View docs: ${await app.getUrl()}/open-api/`);
 }
 bootstrap();
